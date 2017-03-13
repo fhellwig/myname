@@ -1,6 +1,6 @@
 {
   "name": "myname",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Determines the name of a module.",
   "main": "myname.js",
   "scripts": {
