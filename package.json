@@ -1,0 +1,22 @@
+{
+  "name": "myname",
+  "version": "1.0.0",
+  "description": "Determines the name of a module.",
+  "main": "myname.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhellwig/myname.git"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "Frank Hellwig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhellwig/myname/issues"
+  },
+  "homepage": "https://github.com/fhellwig/myname#readme"
+}
